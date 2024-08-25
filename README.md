@@ -2,7 +2,9 @@
 
 ### 0x00. Shell, navigation
 > Filesystem Hierarchy Standard
+
 > shortcuts
+
 > wildcards
 
 ### 0x02. vi
